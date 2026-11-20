@@ -1,0 +1,14 @@
+{
+  "name": "absam-agro-shop-testnet",
+  "version": "1.0.0",
+  "description": "Backend sécurisé ABSAM AGRO SHOP Pi Network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7"
+  }
+}
